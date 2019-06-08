@@ -1,8 +1,8 @@
 # ExamJS
 
-#Explain shortly about GraphQL, its purpose and some of its use cases
+### Explain shortly about GraphQL, its purpose and some of its use cases
 
-#Explain some of the Server Architectures that can be implemented with a GraphQL backend
+### Explain some of the Server Architectures that can be implemented with a GraphQL backend
 
 #What is meant by the terms over- and under-fetching in relation to REST
 
@@ -18,11 +18,10 @@
 
 #Explain the benefits we get from using a library like Apollo-client, compared to using the plain fetch-API
 #In an Apollo-based React Component, demonstrate how to perform GraphQL Queries, including:
-#
 
-*Explain the structure of the Query Component
-*Explain the purpose of ApolloClient and the ApolloProvider component
-*Explain the purpose of the gql-function (imported from graphql-tag)
+* Explain the structure of the Query Component
+* Explain the purpose of ApolloClient and the ApolloProvider component
+* Explain the purpose of the gql-function (imported from graphql-tag)
 
 #
 #In an Apollo-based React Component, demonstrate how to perform GraphQL Mutations?
