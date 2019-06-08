@@ -2,6 +2,8 @@
 
 ### Explain shortly about GraphQL, its purpose and some of its use cases
 
+
+
 ### Explain some of the Server Architectures that can be implemented with a GraphQL backend
 
 ### What is meant by the terms over- and under-fetching in relation to REST
