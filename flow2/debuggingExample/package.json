@@ -1,0 +1,16 @@
+{
+  "name": "debuggingexample",
+  "version": "1.0.0",
+  "description": "debugging example",
+  "scripts": {
+      "start": "node server.js",
+      "debug": "set DEBUG=* && npm start",
+      "debug-generator": "set DEBUG=app:generator && npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1"
+  }
+}
