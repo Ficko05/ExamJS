@@ -4,6 +4,8 @@ import "react-tabs/style/react-tabs.css";
 import { Query } from "react-apollo";
 import gql from 'graphql-tag';
 
+
+//query
 const GET_PERSON = gql`{
     persons {
         id
