@@ -3,6 +3,7 @@ const serverDebug = require('debug')('app:http:server')
 const requestDebug = require('debug')('app:http:request')
 const randomGenerator = require('./randomGenerator')
 
+
 console.log("DEBUG=" + process.env.DEBUG)
 
 const port = 3002;
