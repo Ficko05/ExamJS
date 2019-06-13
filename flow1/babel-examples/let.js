@@ -1,7 +1,7 @@
-// let name = "Thomas";
+// let name = "Filip";
 // console.log(name);
 
 "use strict";
 
-var name = "Thomas";
+var name = "Filip";
 console.log(name);

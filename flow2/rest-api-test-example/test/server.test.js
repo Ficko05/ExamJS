@@ -11,6 +11,7 @@ const chaiHttp = require('chai-http')
 
 chai.use(chaiHttp)
 
+//rest
 describe('REST', function () {
 
     before(function (done) {
@@ -18,12 +19,12 @@ describe('REST', function () {
             done()
         });
     });
-
+    //resets the people befor each starting
     beforeEach(function (done) {
         people.reset()
         done()
     })
-
+    
     it('GET /people should return a list of people', function (done) {
         chai.request(this.server)
             .get('/people')

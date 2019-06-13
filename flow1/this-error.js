@@ -9,6 +9,6 @@ function Person(name){
     }
 }
 
-const person = new Person("Lars");
-console.log(person.a()); // "Lars"
+const person = new Person("Tom");
+console.log(person.a()); // "Tom"
 console.log(person.b()); // undefined, since this refers to the object containing the a and b functions
