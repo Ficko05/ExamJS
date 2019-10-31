@@ -24,7 +24,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongo": "^0.1.0",
     "mongodb": "^3.2.2",
-    "mongoose": "^5.5.13"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0",
